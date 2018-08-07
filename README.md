@@ -4,7 +4,7 @@
 
 ## README.md
 
-https://github.com/whamma/proxima-upload-server/tree/master
+https://github.com/whamma/proxima-media-collector/tree/master
 
 ## 데이터 베이스 구축
 
